@@ -1,0 +1,20 @@
+{
+  "packageId": "com.attakhan.quizpatente",
+  "host": "signal-asset-integra-g9iq.bolt.host",
+  "name": "Quiz Patente 2026 Multilingua",
+  "shortName": "Quiz Patente",
+  "startUrl": "/",
+  "display": "standalone",
+  "themeColor": "#000000",
+  "backgroundColor": "#ffffff",
+  "enableNotifications": true,
+  "iconUrl": "https://signal-asset-integra-g9iq.bolt.host/favicon.ico",
+  "splashScreenFadeOutDuration": 300,
+  "signingKey": {
+    "path": "android.keystore",
+    "alias": "android"
+  },
+  "appVersionName": "1.0.0",
+  "appVersionCode": 1,
+  "generatorApp": "bubblewrap-cli"
+}
